@@ -6,7 +6,7 @@ I’m passionate about Blockchain, Cryptography and Cyber Security. Some technol
 ## Find me around the web: :earth_americas:
 - Sharing updates on <a href="https://www.linkedin.com/in/rishank-pratik-9b1a35129/"> LinkedIn </a> :bulb:
 - Competitive Coding on <a href="https://www.hackerrank.com/rishankp22?h_r=internal-search&hr_r=1"> HackerRank </a> :man_technologist: 
-- For queries, :envelope: rishankp22@gmail.com
+- For queries, rishankp22@gmail.com :envelope:
 - Connect with me on <a href="https://www.instagram.com/rishank_pratik/"> Instagram </a> :metal:
 
 ![](https://komarev.com/ghpvc/?username=RishankPratik&color=blue)
