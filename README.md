@@ -4,9 +4,7 @@ _"The people who are crazy enough to think they can change the world are the one
 I’m passionate about Blockchain, Cryptography and Cyber Security. Some technologies I enjoy working with include Android Studio (Flutter), LAMP Stack (Linux, Apache, MySQL, PHP) and Adobe Photoshop. My area of knowledge includes Software Engineering, Networks and Communication, and Data Science. 
 <br>
 ![](https://komarev.com/ghpvc/?username=RishankPratik&color=blue)
-<br>
-[![Rishank's's Github Stats](https://github-readme-stats.vercel.app/api?username=RishankPratik)](https://github.com/anuraghazra/github-readme-stats)
-<br>
+<br><br>
 
 ## Connect with me:
 
