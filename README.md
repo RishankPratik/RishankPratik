@@ -11,7 +11,7 @@ I’m passionate about Blockchain, Cryptography and Cyber Security. Some technol
 [<img align="left" alt="LinkedIn" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/174/174857.svg" />][linkedin]
 [<img align="left" alt="Instagram" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/174/174855.svg" />][instagram]
 [<img align="left" alt="Instagram" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/145/145802.svg" />][facebook]
-[<img align="left" alt="Instagram" width="22px" src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" />][hackerrank]
+[<img align="left" alt="Instagram" width="22px" src="https://1.bp.blogspot.com/-ULT9oDhqr24/XJYCrttOEpI/AAAAAAAAJYE/inXHXlzblBI3SbcGpiUj4TMNj-E8uPlaQCK4BGAYYCw/s1600/logo%2Bhackerrank%2Bicon.png" />][hackerrank]
 <br><br>
 
 ## Languages and Tools:
@@ -31,8 +31,6 @@ I’m passionate about Blockchain, Cryptography and Cyber Security. Some technol
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="SQL" width="26px" src="https://icon-library.com/images/sql-icon/sql-icon-8.jpg" />
 <br><br>
-
-![](https://komarev.com/ghpvc/?username=RishankPratik&color=blue)
 
 [instagram]: https://www.instagram.com/rishank_pratik/
 [linkedin]: https://www.linkedin.com/in/rishank-pratik-9b1a35129/
