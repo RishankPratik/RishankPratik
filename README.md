@@ -5,8 +5,9 @@ I’m passionate about Blockchain, Cryptography and Cyber Security. Some technol
 <br><br>
 ![](https://komarev.com/ghpvc/?username=RishankPratik&color=blue)
 <br>
+
 ## Connect with me:
-<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /> <a href="https://www.linkedin.com/in/rishank-pratik-9b1a35129/"> 
+//<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /> <a href="https://www.linkedin.com/in/rishank-pratik-9b1a35129/"> 
 <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /> <a href="https://www.instagram.com/rishank_pratik/">
 <img align="left" alt="Facebook" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/145/145802.svg" /> <a href="https://www.facebook.com/rishank.221b/">
 <br><br>
