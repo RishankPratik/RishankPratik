@@ -3,12 +3,13 @@ _"The people who are crazy enough to think they can change the world are the one
 
 I’m passionate about Blockchain, Cryptography and Cyber Security. Some technologies I enjoy working with include Android Studio (Flutter), LAMP Stack (Linux, Apache, MySQL, PHP) and Adobe Photoshop. My area of knowledge includes Software Engineering, Networks and Communication, and Data Science. 
 <br><br>
+![](https://komarev.com/ghpvc/?username=RishankPratik&color=blue)
+<br><br>
 
+## Connect with me:
 
-### Connect with me:
-
-<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /> <a href= "https://www.linkedin.com/in/rishank-pratik-9b1a35129/" />
-<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /> <a href= "https://www.instagram.com/rishank_pratik/" />
+[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 <br><br>
 
 ## Languages and Tools:
@@ -31,3 +32,5 @@ I’m passionate about Blockchain, Cryptography and Cyber Security. Some technol
 
 ![](https://komarev.com/ghpvc/?username=RishankPratik&color=blue)
 
+[instagram]: https://www.instagram.com/rishank_pratik/
+[linkedin]: https://www.linkedin.com/in/rishank-pratik-9b1a35129/
