@@ -5,7 +5,7 @@ I’m passionate about Blockchain, Cryptography and Cyber Security. Some technol
 <br>
 ![](https://komarev.com/ghpvc/?username=RishankPratik&color=blue)
 <br>
-[![Rishank's's Github Stats](https://github-readme-stats.vercel.app/api?username=RishankPratik)](https://github.com/RishankPratik/github-readme-stats)
+[![Rishank's's Github Stats](https://github-readme-stats.vercel.app/api?username=RishankPratik)](https://github.com/anuraghazra/github-readme-stats)
 <br>
 
 ## Connect with me:
