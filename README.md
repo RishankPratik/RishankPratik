@@ -8,8 +8,10 @@ I’m passionate about Blockchain, Cryptography and Cyber Security. Some technol
 
 ## Connect with me:
 
-[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="LinkedIn" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/174/174857.svg" />][linkedin]
+[<img align="left" alt="Instagram" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/174/174855.svg" />][instagram]
+[<img align="left" alt="Instagram" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/145/145802.svg" />][facebook]
+[<img align="left" alt="Instagram" width="22px" src="https://cdn.worldvectorlogo.com/logos/hackerrank.svgg" />][hackerrank]
 <br><br>
 
 ## Languages and Tools:
@@ -34,3 +36,5 @@ I’m passionate about Blockchain, Cryptography and Cyber Security. Some technol
 
 [instagram]: https://www.instagram.com/rishank_pratik/
 [linkedin]: https://www.linkedin.com/in/rishank-pratik-9b1a35129/
+[facebook]: https://www.facebook.com/rishank.221b/
+[hackerrank]: https://www.hackerrank.com/rishankp22
