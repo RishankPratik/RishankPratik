@@ -6,6 +6,11 @@ I’m passionate about Blockchain, Cryptography and Cyber Security. Some technol
 ![](https://komarev.com/ghpvc/?username=RishankPratik&color=blue)
 <br><br>
 
+<a href="https://github.com/RishankPratik">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RishankPratik&layout=compact&theme=beufy"/></a>
+<a href="https://github.com/RishankPratik">
+<img src="https://github-readme-stats.vercel.app/api?username=RishankPratik&count_private=true&show_icons=true&theme=buefy"/></a>
+
 ## Connect with me:
 
 [<img align="left" alt="LinkedIn" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/174/174857.svg" />][linkedin]
