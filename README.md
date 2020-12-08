@@ -10,7 +10,6 @@ I’m passionate about Blockchain, Cryptography and Cyber Security. Some technol
 <img align="left" alt="LinkedIn" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/174/174857.svg" /> <a href="https://www.linkedin.com/in/rishank-pratik-9b1a35129/"> 
 <img align="left" alt="Instagram" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/174/174855.svg" /> <a href="https://www.instagram.com/rishank_pratik/">
 <img align="left" alt="Facebook" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/145/145802.svg" /> <a href="https://www.facebook.com/rishank.221b/">
-<img align="left" alt="HackerRank" width="22px" src="https://d29fhpw069ctt2.cloudfront.net/icon/image/38712/preview.svg" /> <a href="https://www.hackerrank.com/rishankp22/">
 <br><br>
 
 ## Languages and Tools:
