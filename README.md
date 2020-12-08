@@ -4,12 +4,6 @@ _"The people who are crazy enough to think they can change the world are the one
 I’m passionate about Blockchain, Cryptography and Cyber Security. Some technologies I enjoy working with include Android Studio (Flutter), LAMP Stack (Linux, Apache, MySQL, PHP) and Adobe Photoshop. My area of knowledge includes Software Engineering, Networks and Communication, and Data Science. 
 <br><br>
 
-## Connect with me:
-
-
-<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /> <a href="https://www.instagram.com/rishank_pratik/">
-<img align="left" alt="Facebook" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/145/145802.svg" /> <a href="https://www.facebook.com/rishank.221b/">
-<br><br>
 
 ## Languages and Tools:
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
