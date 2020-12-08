@@ -5,6 +5,12 @@ I’m passionate about Blockchain, Cryptography and Cyber Security. Some technol
 <br><br>
 ![](https://komarev.com/ghpvc/?username=RishankPratik&color=blue)
 <br><br>
+<centre>
+<a href="https://github.com/RishankPratik">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RishankPratik&layout=compact&theme=beufy"/></a><br><br>
+<a href="https://github.com/RishankPratik">
+<img src="https://github-readme-stats.vercel.app/api?username=RishankPratik&count_private=true&show_icons=true&theme=buefy"/></a>
+</centre>
 
 ## Connect with me:
 
@@ -33,12 +39,6 @@ I’m passionate about Blockchain, Cryptography and Cyber Security. Some technol
 <img align="left" alt="SQL" width="26px" src="https://icon-library.com/images/sql-icon/sql-icon-8.jpg" />
 <img align="left" alt="SQL" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" />
 <br><br>
-
-
-<a href="https://github.com/RishankPratik">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RishankPratik&layout=compact&theme=beufy"/></a><br><br>
-<a href="https://github.com/RishankPratik">
-<img src="https://github-readme-stats.vercel.app/api?username=RishankPratik&count_private=true&show_icons=true&theme=buefy"/></a>
 
 [instagram]: https://www.instagram.com/rishank_pratik/
 [linkedin]: https://www.linkedin.com/in/rishank-pratik-9b1a35129/
