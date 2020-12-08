@@ -2,7 +2,11 @@
 _"The people who are crazy enough to think they can change the world are the ones who do." — Steve Jobs_
 
 I’m passionate about Blockchain, Cryptography and Cyber Security. Some technologies I enjoy working with include Android Studio (Flutter), LAMP Stack (Linux, Apache, MySQL, PHP) and Adobe Photoshop. My area of knowledge includes Software Engineering, Networks and Communication, and Data Science. 
-<br><br>
+<br>
+![](https://komarev.com/ghpvc/?username=RishankPratik&color=blue)
+<br>
+[![Rishank's's Github Stats](https://github-readme-stats.vercel.app/api?username=RishankPratik)](https://github.com/RishankPratik/github-readme-stats)
+<br>
 
 ## Connect with me:
 
@@ -28,8 +32,5 @@ I’m passionate about Blockchain, Cryptography and Cyber Security. Some technol
 <img align="left" alt="Ruby" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/ruby.svg" />
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="SQL" width="26px" src="https://icon-library.com/images/sql-icon/sql-icon-8.jpg" />
-<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
 <br><br>
 
-
-![](https://komarev.com/ghpvc/?username=RishankPratik&color=blue)
