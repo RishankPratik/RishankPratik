@@ -25,11 +25,13 @@ I’m passionate about Blockchain, Cryptography and Cyber Security. Some technol
 <img align="left" alt="Android" width="26px" src="https://www.flaticon.com/svg/static/icons/svg/174/174836.svg" />
 <img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" />
 <img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg" />
+<img align="left" alt="Java" width="26px" src="https://cdn.icon-icons.com/icons2/1381/PNG/512/bluej_94537.png" />
 <img align="left" alt="Cpp" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg" />
 <img align="left" alt="C" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg" />
 <img align="left" alt="Ruby" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/ruby.svg" />
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+<img align="left" alt="Node.js" width="26px" src="https://jack-gooding.com/static/nodejs_logo.png" />
 <img align="left" alt="SQL" width="26px" src="https://icon-library.com/images/sql-icon/sql-icon-8.jpg" />
+<img align="left" alt="SQL" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" />
 <br><br>
 
 [instagram]: https://www.instagram.com/rishank_pratik/
