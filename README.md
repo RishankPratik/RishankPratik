@@ -37,7 +37,6 @@ I’m passionate about Blockchain, Cryptography and Cyber Security. Some technol
 <img align="left" alt="Cpp" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg" />
 <img align="left" alt="C" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg" />
 <img align="left" alt="Ruby" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/ruby.svg" />
-<img align="left" alt="Node.js" width="26px" src="https://jack-gooding.com/static/nodejs_logo.png" />
 <img align="left" alt="SQL" width="26px" src="https://icon-library.com/images/sql-icon/sql-icon-8.jpg" />
 <br><br>
 
