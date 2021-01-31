@@ -4,6 +4,7 @@ _"The people who are crazy enough to think they can change the world are the one
 
 I’m passionate about Blockchain, Cryptography and Cyber Security. Some technologies I enjoy working with include Android Studio (Flutter), LAMP Stack (Linux, Apache, MySQL, PHP) and Adobe Photoshop. My area of knowledge includes Software Engineering, Web Development, Networks and Communication, Malware Analysis and Data Science. 
 <br><br>
+<script src="https://tryhackme.com/badge/297041"></script>
 ![](https://komarev.com/ghpvc/?username=RishankPratik&color=blue)
 <br>
 <p align="center">
