@@ -15,6 +15,7 @@ I’m currently pursuing Computer Science and Engineering from Vellore Instititu
 <p align="center">
 <a href="https://github.com/RishankPratik">
 <img src="https://github-readme-stats.vercel.app/api?username=RishankPratik&count_private=true&show_icons=true&theme=vue"/></a>
+  <img src="https://tryhackme-badges.s3.amazonaws.com/Rishank.png" alt="TryHackMe">
 </p>
 
 ## Connect with me:
