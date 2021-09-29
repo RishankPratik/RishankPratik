@@ -23,7 +23,7 @@ I’m currently pursuing Computer Science and Engineering from Vellore Instititu
 [<img align="left" alt="Instagram" width="50px" src="https://img.icons8.com/fluency/50/000000/instagram-new.png"/>][instagram]
 [<img align="left" alt="Facebook" width="50px" src="https://img.icons8.com/fluency/50/000000/facebook.png"/>][facebook]
 [<img align="left" alt="Youtube" width="50px" src="https://img.icons8.com/fluency/48/000000/youtube-squared.png"/>][youtube]
-[<img align="left" alt="Hackerrank" width="50px" src="https://1.bp.blogspot.com/-ULT9oDhqr24/XJYCrttOEpI/AAAAAAAAJYE/inXHXlzblBI3SbcGpiUj4TMNj-E8uPlaQCK4BGAYYCw/s1600/logo%2Bhackerrank%2Bicon.png" />][hackerrank]
+[<img align="left" alt="Hackerrank" width="45px" src="https://1.bp.blogspot.com/-ULT9oDhqr24/XJYCrttOEpI/AAAAAAAAJYE/inXHXlzblBI3SbcGpiUj4TMNj-E8uPlaQCK4BGAYYCw/s1600/logo%2Bhackerrank%2Bicon.png" />][hackerrank]
 <br><br>
 
 ## Languages and Tools:
