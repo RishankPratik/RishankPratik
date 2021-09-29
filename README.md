@@ -24,7 +24,7 @@ I’m currently pursuing Computer Science and Engineering from Vellore Instititu
 [<img align="left" alt="Facebook" width="50px" src="https://img.icons8.com/fluency/50/000000/facebook.png"/>][facebook]
 [<img align="left" alt="Youtube" width="50px" src="https://img.icons8.com/fluency/48/000000/youtube-squared.png"/>][youtube]
 [<img align="left" alt="Hackerrank" width="40px" src="https://1.bp.blogspot.com/-ULT9oDhqr24/XJYCrttOEpI/AAAAAAAAJYE/inXHXlzblBI3SbcGpiUj4TMNj-E8uPlaQCK4BGAYYCw/s1600/logo%2Bhackerrank%2Bicon.png" />][hackerrank]
-[<img align="left" alt="Hackerrank" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/0/0a/LeetCode_Logo_black_with_text.svg" />][leetcode]
+[<img align="left" alt="LeetCode" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/0/0a/LeetCode_Logo_black_with_text.svg" />][leetcode]
 <br><br>
 
 ## Languages and Tools:
@@ -49,3 +49,4 @@ I’m currently pursuing Computer Science and Engineering from Vellore Instititu
 [facebook]: https://www.facebook.com/rishank.221b/
 [youtube]: https://www.youtube.com/channel/UCxpIlWxNqObTqZ9kJ2vc0Aw?view_as=subscriber
 [hackerrank]: https://www.hackerrank.com/rishankp22
+[leetcode]: https://leetcode.com/rishankp22/
