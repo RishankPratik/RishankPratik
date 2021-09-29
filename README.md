@@ -3,7 +3,7 @@
 _"The people who are crazy enough to think they can change the world are the ones who do." — Steve Jobs_
 
 I’m currently pursuing Computer Science and Engineering from Vellore Instititue of Technology (VIT), Chennai. My area of knowledge includes Software Engineering, Web Development, Cyber Security, Blockchain and Cryptography. Some areas I enjoy working on includes Android Application Development (Flutter), Data Science, Scam Detection and exploring new technologies.<br>
-<b>Do checkout my LinkedIn Profile for more info:</b> https://www.linkedin.com/in/rishank-pratik-9b1a35129/
+<b>Do checkout my LinkedIn Profile:</b> https://www.linkedin.com/in/rishank-pratik-9b1a35129/
 <br><br>
 
 ![](https://komarev.com/ghpvc/?username=RishankPratik&color=blue)
