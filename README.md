@@ -29,12 +29,12 @@ I’m currently pursuing Computer Science and Engineering from Vellore Instititu
 ## Languages and Tools:
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="PHP" width="26px" src="https://www.flaticon.com/svg/static/icons/svg/919/919830.svg" />
+<img align="left" alt="PHP" width="26px" src="https://iconape.com/wp-content/files/hc/353261/png/353261.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="MetaSploit" width="26px" src="https://pbs.twimg.com/profile_images/580131056629735424/2ENTk2K2.png"/>
 <img align="left" alt="Flutter" width="26px" src="https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2.0,f_auto,g_center,h_500,q_auto:good,w_500/v1/gcs/platform-data-dsc/events/flutter-icon.png" />
-<img align="left" alt="Android" width="26px" src="https://www.flaticon.com/svg/static/icons/svg/174/174836.svg" />
+<img align="left" alt="Android" width="26px" src="https://iconape.com/android-3-logo-icon-svg-png.html" />
 <img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" />
 <img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg" />
 <img align="left" alt="Cpp" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg" />
