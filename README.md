@@ -24,7 +24,7 @@ I’m currently pursuing Computer Science and Engineering from Vellore Instititu
 [<img align="left" alt="Facebook" width="50px" src="https://img.icons8.com/fluency/50/000000/facebook.png"/>][facebook]
 [<img align="left" alt="Youtube" width="50px" src="https://img.icons8.com/fluency/48/000000/youtube-squared.png"/>][youtube]
 [<img align="left" alt="Hackerrank" width="40px" src="https://1.bp.blogspot.com/-ULT9oDhqr24/XJYCrttOEpI/AAAAAAAAJYE/inXHXlzblBI3SbcGpiUj4TMNj-E8uPlaQCK4BGAYYCw/s1600/logo%2Bhackerrank%2Bicon.png" />][hackerrank]
-[<img align="left" alt="LeetCode" width="100px" src="https://upload.wikimedia.org/wikipedia/commons/0/0a/LeetCode_Logo_black_with_text.svg" />][leetcode]
+[<img align="left" alt="LeetCode" width="150px" src="https://upload.wikimedia.org/wikipedia/commons/0/0a/LeetCode_Logo_black_with_text.svg" />][leetcode]
 <br><br>
 
 ## Languages and Tools:
@@ -41,7 +41,7 @@ I’m currently pursuing Computer Science and Engineering from Vellore Instititu
 <img align="left" alt="Cpp" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg" />
 <img align="left" alt="C" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg" />
 <img align="left" alt="Ruby" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/ruby.svg" />
-<img align="left" alt="SQL" width="26px" src="https://icon-library.com/images/sql-icon/sql-icon-8.jpg" />
+<img align="left" alt="SQL" width="23px" src="https://icon-library.com/images/sql-icon/sql-icon-8.jpg" />
 <br><br>
 
 [instagram]: https://www.instagram.com/rishank_pratik/
