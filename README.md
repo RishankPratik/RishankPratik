@@ -21,7 +21,7 @@ I’m currently pursuing Computer Science and Engineering from Vellore Instititu
 
 [<img align="left" alt="LinkedIn" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/174/174857.svg" />][linkedin]
 [<img align="left" alt="Instagram" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/174/174855.svg" />][instagram]
-[<img align="left" alt="Facebook" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/145/145802.svg" />][facebook]
+[<img align="left" alt="Facebook" width="22px" src="https://img.icons8.com/fluency/50/000000/facebook.png"/>][facebook]
 [<img align="left" alt="Youtube" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/174/174883.svg" />][youtube]
 [<img align="left" alt="Hackerrank" width="22px" src="https://1.bp.blogspot.com/-ULT9oDhqr24/XJYCrttOEpI/AAAAAAAAJYE/inXHXlzblBI3SbcGpiUj4TMNj-E8uPlaQCK4BGAYYCw/s1600/logo%2Bhackerrank%2Bicon.png" />][hackerrank]
 <br><br>
