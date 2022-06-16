@@ -1,8 +1,8 @@
 
 # Hi, I'm Rishank :wave: :technologist:
-_"The people who are crazy enough to think they can change the world are the ones who do." — Steve Jobs_
+_“There are only two great tragedies in life: one is not getting what you want and the other is getting it.” -Oscar Wilde_
 
-I’m currently pursuing Computer Science and Engineering from Vellore Instititue of Technology (VIT), Chennai. My area of knowledge includes Software Engineering, Web Development, Cyber Security, Blockchain and Cryptography. Some areas I enjoy working on includes Android Application Development (Flutter), Data Science, Scam Detection and exploring new technologies.<br>
+I’m currently pursuing Computer Science and Engineering from Vellore Instititue of Technology (VIT), Chennai. My area of knowledge includes Software Engineering, Web Development, Cyber Security, Cryptography. I love Designing, Video Editing and Video Games, preferably ww2. <br>
 <b>Do checkout my LinkedIn Profile:</b> https://www.linkedin.com/in/rishank-pratik-9b1a35129/
 <br><br>
 
