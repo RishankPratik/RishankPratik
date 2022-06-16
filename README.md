@@ -22,7 +22,7 @@ I’m currently pursuing Computer Science and Engineering from Vellore Instititu
 [<img align="left" alt="LinkedIn" width="50px" src="https://img.icons8.com/fluency/50/000000/linkedin.png"/>][linkedin]
 [<img align="left" alt="Instagram" width="50px" src="https://img.icons8.com/fluency/50/000000/instagram-new.png"/>][instagram]
 [<img align="left" alt="Youtube" width="50px" src="https://img.icons8.com/fluency/48/000000/youtube-squared.png"/>][youtube]
-[<img align="left" alt="Hackerrank" width="40px" src="https://1.bp.blogspot.com/-ULT9oDhqr24/XJYCrttOEpI/AAAAAAAAJYE/inXHXlzblBI3SbcGpiUj4TMNj-E8uPlaQCK4BGAYYCw/s1600/logo%2Bhackerrank%2Bicon.png" />][hackerrank]
+[<img align="left" alt="Hackerrank" width="40px" src="https://1.bp.blogspot.com/-ULT9oDhqr24/XJYCrttOEpI/AAAAAAAAJYE/inXHXlzblBI3SbcGpiUj4TMNj-E8uPlaQCK4BGAYYCw/s1600/logo%2Bhackerrank%2Bicon.png" />][hackerrank] <br><br>
 
 ## Languages and Tools:
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
