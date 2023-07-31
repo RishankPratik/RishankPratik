@@ -41,9 +41,3 @@ I’m currently pursuing Computer Science and Engineering from Vellore Instititu
 <img align="left" alt="SQL" width="23px" src="https://icon-library.com/images/sql-icon/sql-icon-8.jpg" />
 <br><br>
 
-[instagram]: https://www.instagram.com/rishank_pratik/
-[linkedin]: https://www.linkedin.com/in/rishank-pratik-9b1a35129/
-[facebook]: https://www.facebook.com/rishank.221b/
-[youtube]: https://www.youtube.com/channel/UCxpIlWxNqObTqZ9kJ2vc0Aw?view_as=subscriber
-[hackerrank]: https://www.hackerrank.com/rishankp22
-[leetcode]: https://leetcode.com/rishankp22/
